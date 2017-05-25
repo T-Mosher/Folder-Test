@@ -1,0 +1,2 @@
+This is just a test file in TestFolder1.
+Now I'm adding a new line to the file.
